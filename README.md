@@ -8,3 +8,10 @@
 <a href="https://twitter.com/applena" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
 <a href="mailto:applena@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 </p>
+
+<h3> 🕵🏻‍♀️ My Developer Identity</h3>
+<br />
+### When studying **Full Stack JavaScript Development** in 2018, I stumbled on **React** and was hooked. I spent the next three years diving deep into **React** even going so far as to develop the React curriculum at Code Fellows. Currently, I use React Native to build mobile applications.
+<br /><br />
+<h3> 🧙🏻 Tech</h3>
+
